@@ -24,7 +24,8 @@ pip install pytorch-wavelets  # For DWTForward/DWTInverse
 
 # For Faiss (GPU version recommended)
 conda install -c pytorch faiss-gpu
-
+```
+---
 
 ## Usage Workflow
 
